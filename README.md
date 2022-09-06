@@ -17,6 +17,9 @@
 </p>
 
 <!-- BLOG-POST-LIST:START -->
+- [expo initした時に&quot;Component cannot be used as a JSX component&quot; エラーが出る件について](https://zenn.dev/tabigaeru/articles/bfade319dab9a6)
+- [Next.jsでVitestを使ってテストをするときのenvファイルを読み込む設定](https://zenn.dev/tabigaeru/articles/8a473117a4d439)
+- [AWS SAMによる、Lambda統合のやり方](https://zenn.dev/tabigaeru/articles/ca9b996268faf8)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
